@@ -1,35 +1,3 @@
 {
-  "users": [
-    {
-      "userID": 1,
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
-      "startDate": "13/04/2024, 10:50:55 pm",
-      "comments": [
-        {
-          "text": "Good job :)",
-          "upvotes": 1,
-          "created": "13/04/2024, 10:52:30 pm",
-          "commentID": 2
-        },
-        {
-          "text": "I am a good GOD!",
-          "upvotes": 1,
-          "created": "13/04/2024, 10:51:55 pm",
-          "commentID": 1
-        }
-      ],
-      "actionHistory": [
-        {
-          "action": "view",
-          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
-          "date": "13/04/2024, 10:52:57 pm"
-        },
-        {
-          "action": "view",
-          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
-          "date": "13/04/2024, 10:50:55 pm"
-        }
-      ]
-    }
-  ]
+  "users": []
 }

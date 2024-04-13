@@ -8,10 +8,20 @@
         {
           "text": "I AM A GOD!",
           "upvotes": 1,
+          "created": "13/04/2024, 20:38:36"
+        },
+        {
+          "text": "I AM A GOD!",
+          "upvotes": 1,
           "created": "4/13/2024 8:34:38 PM"
         }
       ],
       "actionHistory": [
+        {
+          "action": "view",
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/1.html",
+          "date": "13/04/2024, 20:38:36"
+        },
         {
           "action": "view",
           "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=1",

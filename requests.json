@@ -4,8 +4,20 @@
       "userID": 1,
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "startDate": "4/13/2024 8:33:37 PM",
-      "comments": [],
-      "actionHistory": []
+      "comments": [
+        {
+          "text": "I AM A GOD!",
+          "upvotes": 1,
+          "created": "4/13/2024 8:34:38 PM"
+        }
+      ],
+      "actionHistory": [
+        {
+          "action": "view",
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=1",
+          "date": "4/13/2024 8:34:38 PM"
+        }
+      ]
     }
   ]
 }

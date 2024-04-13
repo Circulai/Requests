@@ -1,30 +1,3 @@
 {
-  "users": [
-    {
-      "userID": 1,
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
-      "startDate": "13/04/2024, 11:57:36 pm",
-      "comments": [
-        {
-          "text": "hello",
-          "upvotes": 1,
-          "created": "13/04/2024, 11:57:34 pm",
-          "commentID": 1
-        },
-        {
-          "text": "hello",
-          "upvotes": 1,
-          "created": "13/04/2024, 11:55:04 pm",
-          "commentID": 0
-        }
-      ],
-      "views": [],
-      "actionHistory": [
-        {
-          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
-          "date": "13/04/2024, 11:57:34 pm"
-        }
-      ]
-    }
-  ]
+  "users": []
 }

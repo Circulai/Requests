@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "userID": 2,
+      "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+      "startDate": "13/04/2024, 11:07:23 pm",
+      "comments": [],
+      "actionHistory": []
+    }
+  ]
 }

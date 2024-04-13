@@ -1,29 +1,4 @@
 {
   "users": [
-    {
-      "userID": 2,
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
-      "startDate": "4/13/2024 7:37:17 PM",
-      "comments": [
-        {
-          "text": "I AM A GOD!",
-          "upvotes": 1,
-          "created": "4/13/2024 8:17:22 PM"
-        },
-        "already",
-        "already",
-        "already",
-        "already",
-        "already",
-        "already",
-        "already"
-      ]
-    },
-    {
-      "userID": 1,
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
-      "startDate": "4/13/2024 7:35:05 PM",
-      "comments": []
-    }
   ]
 }

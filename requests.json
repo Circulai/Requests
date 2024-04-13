@@ -5,7 +5,17 @@
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "startDate": "13/04/2024, 11:09:28 pm",
       "comments": [],
-      "actionHistory": []
+      "actionHistory": [
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "13/04/2024, 11:27:07 pm"
+        },
+        {
+          "action": "view",
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "13/04/2024, 11:09:28 pm"
+        }
+      ]
     },
     {
       "userID": 2,

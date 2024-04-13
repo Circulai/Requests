@@ -11,8 +11,66 @@
       "userID": 2,
       "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
       "startDate": "13/04/2024, 11:07:23 pm",
-      "comments": [],
-      "actionHistory": []
+      "comments": [
+        {
+          "text": "Hello",
+          "upvotes": 1,
+          "created": "13/04/2024, 11:07:46 pm",
+          "commentID": 1
+        }
+      ],
+      "actionHistory": [
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Comments.html",
+          "date": "13/04/2024, 11:14:08 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Comments.html",
+          "date": "13/04/2024, 11:07:35 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=7",
+          "date": "13/04/2024, 11:07:33 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=6",
+          "date": "13/04/2024, 11:07:32 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=5",
+          "date": "13/04/2024, 11:07:32 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=4",
+          "date": "13/04/2024, 11:07:31 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=3",
+          "date": "13/04/2024, 11:07:30 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=2",
+          "date": "13/04/2024, 11:07:29 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/Exercise.html?exercise=1",
+          "date": "13/04/2024, 11:07:25 pm"
+        },
+        {
+          "action": "view",
+          "url": "https://leanderziehm.github.io/ExerciseSelection.html",
+          "date": "13/04/2024, 11:07:22 pm"
+        }
+      ]
     }
   ]
 }

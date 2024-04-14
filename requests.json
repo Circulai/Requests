@@ -7,14 +7,18 @@
       "comments": [],
       "views": {
         "https://leanderziehm.github.io/ExerciseSelection.html": [
+          "14/04/2024, 09:10:02 PM",
           "14/04/2024, 09:09:48 PM",
           "14/04/2024, 09:03:25 PM",
           "14/04/2024, 09:03:02 PM"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=1": [
+          "14/04/2024, 09:11:03 PM",
+          "14/04/2024, 09:10:07 PM",
           "14/04/2024, 09:03:06 PM"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=2": [
+          "14/04/2024, 09:10:24 PM",
           "14/04/2024, 09:03:57 PM",
           "14/04/2024, 09:03:29 PM"
         ],
@@ -56,6 +60,9 @@
           ],
           "forwardButton": [
             "14/04/2024, 09:04:14 PM"
+          ],
+          "backwardButton": [
+            "14/04/2024, 09:11:03 PM"
           ]
         },
         "https://leanderziehm.github.io/Exercise.html?exercise=4": {
@@ -77,6 +84,14 @@
         "https://leanderziehm.github.io/Exercise.html?exercise=6": {
           "backwardButton": [
             "14/04/2024, 09:04:17 PM"
+          ]
+        },
+        "https://leanderziehm.github.io/Exercise.html?exercise=1": {
+          "solutionButton": [
+            "14/04/2024, 09:10:16 PM"
+          ],
+          "forwardButton": [
+            "14/04/2024, 09:10:24 PM"
           ]
         }
       }

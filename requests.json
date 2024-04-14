@@ -1,3 +1,88 @@
 {
-  "users": []
+  "users": [
+    {
+      "userID": 3,
+      "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+      "joined": "14/04/2024, 04:28:52 pm",
+      "comments": [
+        {
+          "text": "Hello it's Leander. I am writing this from my phone. <3",
+          "upvotes": 10,
+          "id": "3.0",
+          "date": "14/04/2024, 04:27:43 pm"
+        }
+      ],
+      "views": {
+        "https://leanderziehm.github.io/Comments.html": [
+          "14/04/2024, 04:28:52 pm",
+          "14/04/2024, 04:27:56 pm",
+          "14/04/2024, 04:27:47 pm",
+          "14/04/2024, 04:27:15 pm"
+        ]
+      },
+      "clicks": [
+        {
+          "clickTime": "14/04/2024, 04:27:54 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:53 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:53 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:52 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:52 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:52 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:52 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:51 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:51 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 04:27:43 pm",
+          "currentUrl": "https://leanderziehm.github.io/Comments.html",
+          "type": "button",
+          "id": "addButton",
+          "text": "*"
+        }
+      ]
+    }
+  ]
 }

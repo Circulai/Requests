@@ -4,9 +4,36 @@
       "userID": 4,
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "joined": "14/04/2024, 04:39:29 pm",
-      "comments": [],
+      "comments": [
+        {
+          "text": "a",
+          "upvotes": 1,
+          "id": "4.3",
+          "date": "14/04/2024, 04:39:36 pm"
+        },
+        {
+          "text": "asd",
+          "upvotes": 1,
+          "id": "4.2",
+          "date": "14/04/2024, 04:39:35 pm"
+        },
+        {
+          "text": "asdas",
+          "upvotes": 1,
+          "id": "4.1",
+          "date": "14/04/2024, 04:39:35 pm"
+        },
+        {
+          "text": "hello",
+          "upvotes": 1,
+          "id": "4.0",
+          "date": "14/04/2024, 04:39:33 pm"
+        }
+      ],
       "views": {
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": [
+          "14/04/2024, 04:40:30 pm",
+          "14/04/2024, 04:39:43 pm",
           "14/04/2024, 04:39:28 pm"
         ]
       },

@@ -4,10 +4,49 @@
       "userID": 1,
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "joined": "14/04/2024, 07:28:24 pm",
-      "comments": [],
+      "comments": [
+        {
+          "text": "sup y'all <3\n",
+          "upvotes": 10,
+          "id": "1.0",
+          "date": "14/04/2024, 07:29:48 pm",
+          "modified": [
+            {
+              "text": "sup y'all",
+              "upvotes": 10,
+              "date": "14/04/2024, 07:29:24 pm"
+            }
+          ]
+        }
+      ],
       "views": {
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/index.html": [
           "14/04/2024, 07:28:23 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Projects.html": [
+          "14/04/2024, 07:28:28 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/ExerciseSelection.html": [
+          "14/04/2024, 07:29:02 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=1": [
+          "14/04/2024, 07:29:04 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=2": [
+          "14/04/2024, 07:29:10 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": [
+          "14/04/2024, 07:29:12 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=4": [
+          "14/04/2024, 07:29:12 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=5": [
+          "14/04/2024, 07:29:13 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": [
+          "14/04/2024, 07:30:04 pm",
+          "14/04/2024, 07:29:15 pm"
         ]
       },
       "clicks": []

@@ -15,6 +15,10 @@
       "views": [
         {
           "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 01:31:34 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
           "date": "14/04/2024, 01:24:33 pm"
         },
         {
@@ -22,7 +26,14 @@
           "date": "14/04/2024, 01:19:11 pm"
         }
       ],
-      "clicks": []
+      "clicks": [
+        {
+          "clickTime": "14/04/2024, 01:24:38 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        }
+      ]
     }
   ]
 }

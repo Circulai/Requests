@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "userID": 4,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "joined": "14/04/2024, 04:39:29 pm",
+      "comments": [],
+      "views": {
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": [
+          "14/04/2024, 04:39:28 pm"
+        ]
+      },
+      "clicks": []
+    },
+    {
       "userID": 3,
       "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
       "joined": "14/04/2024, 04:28:52 pm",

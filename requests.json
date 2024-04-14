@@ -1,3 +1,16 @@
 {
-  "users": []
+  "users": [
+    {
+      "userID": 1,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "joined": "14/04/2024, 04:16:10 pm",
+      "comments": [],
+      "views": {
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/index.html": [
+          "14/04/2024, 04:16:10 pm"
+        ]
+      },
+      "clicks": []
+    }
+  ]
 }

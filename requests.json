@@ -6,6 +6,12 @@
       "joined": "14/04/2024, 07:45:07 pm",
       "comments": [
         {
+          "text": "cool",
+          "upvotes": 1,
+          "id": "2.1",
+          "date": "14/04/2024, 07:46:24 pm"
+        },
+        {
           "text": "heelonice",
           "upvotes": 17,
           "id": "2.0",
@@ -21,6 +27,8 @@
       ],
       "views": {
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": [
+          "14/04/2024, 07:47:25 pm",
+          "14/04/2024, 07:46:20 pm",
           "14/04/2024, 07:45:07 pm",
           "14/04/2024, 07:39:22 pm",
           "14/04/2024, 07:38:28 pm"
@@ -32,13 +40,21 @@
           "14/04/2024, 07:46:02 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/ExerciseSelection.html": [
+          "14/04/2024, 07:46:13 pm",
           "14/04/2024, 07:46:03 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": [
           "14/04/2024, 07:46:04 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=4": [
+          "14/04/2024, 07:46:10 pm",
           "14/04/2024, 07:46:08 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=5": [
+          "14/04/2024, 07:46:08 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=7": [
+          "14/04/2024, 07:46:14 pm"
         ]
       },
       "clicks": {
@@ -54,6 +70,9 @@
           ],
           "saveButton": [
             "14/04/2024, 07:45:42 pm"
+          ],
+          "addButton": [
+            "14/04/2024, 07:46:24 pm"
           ]
         },
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/index.html": {
@@ -69,6 +88,36 @@
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": {
           "forwardButton": [
             "14/04/2024, 07:46:07 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=4": {
+          "forwardButton": [
+            "14/04/2024, 07:46:08 pm"
+          ],
+          "tipButton": [
+            "14/04/2024, 07:46:10 pm"
+          ],
+          "solutionButton": [
+            "14/04/2024, 07:46:12 pm"
+          ],
+          "menuButton": [
+            "14/04/2024, 07:46:13 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=5": {
+          "backwardButton": [
+            "14/04/2024, 07:46:09 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=7": {
+          "solutionButton": [
+            "14/04/2024, 07:46:16 pm"
+          ],
+          "tipButton": [
+            "14/04/2024, 07:46:17 pm"
+          ],
+          "commentsButton": [
+            "14/04/2024, 07:46:19 pm"
           ]
         }
       }

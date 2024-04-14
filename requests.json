@@ -1,3 +1,102 @@
 {
-  "users": []
+  "users": [
+    {
+      "userID": 2,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "startDate": "14/04/2024, 02:22:20 pm",
+      "comments": [
+        {
+          "text": "good",
+          "upvotes": 14,
+          "id": "2.2",
+          "created": "14/04/2024, 02:21:42 pm"
+        },
+        {
+          "text": "how are you?",
+          "upvotes": 3,
+          "id": "2.1",
+          "created": "14/04/2024, 02:21:38 pm"
+        },
+        {
+          "text": "hello",
+          "upvotes": 3,
+          "id": "2.0",
+          "created": "14/04/2024, 02:21:30 pm"
+        }
+      ],
+      "views": [
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:20 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:08 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:03 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:01 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:00 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:22:00 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:21:59 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:21:55 pm"
+        },
+        {
+          "url": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "date": "14/04/2024, 02:21:17 pm"
+        }
+      ],
+      "clicks": [
+        {
+          "clickTime": "14/04/2024, 02:21:58 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 02:21:58 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 02:21:42 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "id": "addButton",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 02:21:38 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "id": "addButton",
+          "text": "*"
+        },
+        {
+          "clickTime": "14/04/2024, 02:21:30 pm",
+          "currentUrl": "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html",
+          "type": "button",
+          "id": "addButton",
+          "text": "*"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "userID": 0,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "joined": "15/04/2024, 11:59:07 pm",
+      "comments": [],
+      "views": {
+        "https://leanderziehm.github.io/": [
+          "15/04/2024, 11:59:07 pm"
+        ]
+      },
+      "clicks": {}
+    },
+    {
       "userID": 3,
       "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
       "joined": "15/04/2024, 00:54:04 pm",

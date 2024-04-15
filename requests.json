@@ -4,13 +4,57 @@
       "userID": 3,
       "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
       "joined": "15/04/2024, 00:54:04 pm",
-      "comments": [],
+      "comments": [
+        {
+          "text": "Hello :)",
+          "upvotes": 9,
+          "id": "3.0",
+          "date": "15/04/2024, 00:54:41 pm"
+        }
+      ],
       "views": {
         "https://leanderziehm.github.io/Projects.html": [
           "15/04/2024, 00:54:03 pm"
+        ],
+        "https://leanderziehm.github.io/ExerciseSelection.html": [
+          "15/04/2024, 00:54:47 pm",
+          "15/04/2024, 00:54:12 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=1": [
+          "15/04/2024, 00:54:51 pm",
+          "15/04/2024, 00:54:18 pm"
+        ],
+        "https://leanderziehm.github.io/Comments.html": [
+          "15/04/2024, 00:58:49 pm",
+          "15/04/2024, 00:54:29 pm"
         ]
       },
-      "clicks": {}
+      "clicks": {
+        "https://leanderziehm.github.io/Projects.html": {
+          "buttonLink": [
+            "15/04/2024, 00:54:11 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Exercise.html?exercise=1": {
+          "tipButton": [
+            "15/04/2024, 00:54:26 pm"
+          ],
+          "solutionButton": [
+            "15/04/2024, 00:54:27 pm"
+          ],
+          "commentsButton": [
+            "15/04/2024, 00:54:28 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Comments.html": {
+          "addButton": [
+            "15/04/2024, 00:54:41 pm"
+          ],
+          "menuButton": [
+            "15/04/2024, 00:54:47 pm"
+          ]
+        }
+      }
     },
     {
       "userID": 2,

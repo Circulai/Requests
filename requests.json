@@ -7,6 +7,11 @@
       "comments": [],
       "views": {
         "https://leanderziehm.github.io/ExerciseSelection.html": [
+          "-16/04/2024, 05:54:50 pm",
+          "+16/04/2024, 05:54:49 pm",
+          "-16/04/2024, 05:54:45 pm",
+          "+16/04/2024, 05:54:45 pm",
+          "-16/04/2024, 05:54:40 pm",
           "+16/04/2024, 05:54:39 pm",
           "-16/04/2024, 05:42:51 pm",
           "+16/04/2024, 05:42:49 pm",
@@ -40,6 +45,7 @@
           "+16/04/2024, 05:31:39 pm"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=4": [
+          "+16/04/2024, 05:57:32 pm",
           "-16/04/2024, 05:31:51 pm",
           "+16/04/2024, 05:31:49 pm"
         ],
@@ -54,16 +60,22 @@
           "+16/04/2024, 05:31:52 pm"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=1": [
+          "-16/04/2024, 05:54:49 pm",
+          "+16/04/2024, 05:54:46 pm",
           "-16/04/2024, 05:37:35 pm",
           "+16/04/2024, 05:37:30 pm",
           "-16/04/2024, 05:32:00 pm",
           "+16/04/2024, 05:31:55 pm"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=2": [
+          "-16/04/2024, 05:54:45 pm",
+          "+16/04/2024, 05:54:40 pm",
           "-16/04/2024, 05:37:29 pm",
           "+16/04/2024, 05:37:27 pm"
         ],
         "https://leanderziehm.github.io/Exercise.html?exercise=3": [
+          "-16/04/2024, 05:57:31 pm",
+          "+16/04/2024, 05:54:50 pm",
           "-16/04/2024, 05:42:49 pm",
           "+16/04/2024, 05:42:41 pm"
         ],
@@ -115,21 +127,33 @@
         },
         "https://leanderziehm.github.io/Exercise.html?exercise=1": {
           "menuButton": [
+            "16/04/2024, 05:54:49 pm",
             "16/04/2024, 05:37:35 pm",
             "16/04/2024, 05:32:00 pm"
+          ],
+          "solutionButton": [
+            "16/04/2024, 05:54:47 pm"
           ]
         },
         "https://leanderziehm.github.io/Exercise.html?exercise=2": {
           "menuButton": [
+            "16/04/2024, 05:54:45 pm",
             "16/04/2024, 05:37:29 pm"
+          ],
+          "solutionButton": [
+            "16/04/2024, 05:54:43 pm"
           ]
         },
         "https://leanderziehm.github.io/Exercise.html?exercise=3": {
           "solutionButton": [
+            "16/04/2024, 05:54:52 pm",
             "16/04/2024, 05:42:45 pm"
           ],
           "menuButton": [
             "16/04/2024, 05:42:49 pm"
+          ],
+          "forwardButton": [
+            "16/04/2024, 05:57:31 pm"
           ]
         },
         "https://leanderziehm.github.io/Exercise.html?exercise=5": {

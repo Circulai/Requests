@@ -7,10 +7,70 @@
       "comments": [],
       "views": {
         "https://leanderziehm.github.io/ExerciseSelection.html": [
+          "-16/04/2024, 05:32:28 pm",
+          "+16/04/2024, 05:32:00 pm",
+          "-16/04/2024, 05:31:55 pm",
+          "+16/04/2024, 05:31:54 pm",
+          "-16/04/2024, 05:31:52 pm",
+          "+16/04/2024, 05:31:51 pm",
+          "-16/04/2024, 05:31:49 pm",
+          "+16/04/2024, 05:31:47 pm",
+          "-16/04/2024, 05:31:30 pm",
           "+16/04/2024, 05:31:27 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=7": [
+          "+16/04/2024, 05:32:28 pm",
+          "-16/04/2024, 05:31:47 pm",
+          "+16/04/2024, 05:31:30 pm"
+        ],
+        "https://leanderziehm.github.io/Comments.html": [
+          "-16/04/2024, 05:31:43 pm",
+          "+16/04/2024, 05:31:39 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=4": [
+          "-16/04/2024, 05:31:51 pm",
+          "+16/04/2024, 05:31:49 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=6": [
+          "-16/04/2024, 05:31:54 pm",
+          "+16/04/2024, 05:31:52 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=1": [
+          "-16/04/2024, 05:32:00 pm",
+          "+16/04/2024, 05:31:55 pm"
         ]
       },
-      "clicks": {}
+      "clicks": {
+        "https://leanderziehm.github.io/Exercise.html?exercise=7": {
+          "tipButton": [
+            "16/04/2024, 05:31:35 pm"
+          ],
+          "commentsButton": [
+            "16/04/2024, 05:31:39 pm"
+          ],
+          "solutionButton": [
+            "16/04/2024, 05:31:44 pm"
+          ],
+          "menuButton": [
+            "16/04/2024, 05:31:47 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Exercise.html?exercise=4": {
+          "menuButton": [
+            "16/04/2024, 05:31:51 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Exercise.html?exercise=6": {
+          "menuButton": [
+            "16/04/2024, 05:31:54 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Exercise.html?exercise=1": {
+          "menuButton": [
+            "16/04/2024, 05:32:00 pm"
+          ]
+        }
+      }
     }
   ]
 }

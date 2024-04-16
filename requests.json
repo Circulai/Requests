@@ -1,3 +1,32 @@
 {
-  "users": []
+  "users": [
+    {
+      "userID": 2,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "joined": "16/04/2024, 11:03:29 am",
+      "comments": [],
+      "views": {
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Name.html": [
+          "-16/04/2024, 11:02:44 am",
+          "+16/04/2024, 11:02:10 am"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/ExerciseSelection.html": [
+          "-16/04/2024, 11:03:29 am",
+          "+16/04/2024, 11:02:44 am"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=1": [
+          "+16/04/2024, 11:03:29 am"
+        ]
+      },
+      "clicks": {
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Name.html": {
+          "saveButton": [
+            "16/04/2024, 11:02:44 am"
+          ]
+        }
+      },
+      "name": "LeanderLaptop",
+      "work": "ain-6"
+    }
+  ]
 }

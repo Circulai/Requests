@@ -1,6 +1,19 @@
 {
   "users": [
     {
+      "userID": 0,
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+      "joined": "19/04/2024, 06:34:02 pm",
+      "comments": [],
+      "views": {
+        "https://leanderziehm.github.io/": [
+          "+19/04/2024, 06:34:01 pm",
+          "15/04/2024, 11:59:07 pm"
+        ]
+      },
+      "clicks": {}
+    },
+    {
       "userID": 4,
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "joined": "19/04/2024, 06:25:20 pm",

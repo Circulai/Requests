@@ -59,9 +59,19 @@
       "userID": 4,
       "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
       "joined": "19/04/2024, 06:25:20 pm",
-      "comments": [],
+      "comments": [
+        {
+          "text": "Hello :)",
+          "upvotes": 1,
+          "id": "4.0",
+          "date": "19/04/2024, 08:15:25 pm"
+        }
+      ],
       "views": {
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/ExerciseSelection.html": [
+          "+19/04/2024, 08:16:18 pm",
+          "-19/04/2024, 08:15:52 pm",
+          "+19/04/2024, 08:15:51 pm",
           "-19/04/2024, 06:43:15 pm",
           "+19/04/2024, 06:43:15 pm",
           "-19/04/2024, 06:34:49 pm",
@@ -138,6 +148,8 @@
           "+19/04/2024, 06:44:34 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=5": [
+          "-19/04/2024, 08:16:18 pm",
+          "+19/04/2024, 08:15:52 pm",
           "+19/04/2024, 08:03:57 pm",
           "-19/04/2024, 08:03:57 pm",
           "+19/04/2024, 07:54:34 pm",
@@ -151,6 +163,7 @@
           "+19/04/2024, 07:19:30 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": [
+          "-19/04/2024, 08:15:50 pm",
           "+19/04/2024, 08:15:10 pm"
         ]
       },
@@ -254,6 +267,17 @@
           ],
           "commentsButton": [
             "19/04/2024, 08:15:10 pm"
+          ],
+          "menuButton": [
+            "19/04/2024, 08:16:18 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": {
+          "addButton": [
+            "19/04/2024, 08:15:25 pm"
+          ],
+          "menuButton": [
+            "19/04/2024, 08:15:50 pm"
           ]
         }
       }

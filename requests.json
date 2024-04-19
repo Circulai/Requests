@@ -62,6 +62,10 @@
       "comments": [],
       "views": {
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/ExerciseSelection.html": [
+          "-19/04/2024, 06:43:15 pm",
+          "+19/04/2024, 06:43:15 pm",
+          "-19/04/2024, 06:34:49 pm",
+          "+19/04/2024, 06:33:19 pm",
           "-19/04/2024, 06:31:38 pm",
           "+19/04/2024, 06:31:21 pm",
           "-19/04/2024, 06:27:44 pm",
@@ -74,13 +78,25 @@
           "+19/04/2024, 06:25:25 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=1": [
+          "-19/04/2024, 06:33:01 pm",
           "+19/04/2024, 06:32:58 pm",
           "-19/04/2024, 06:31:21 pm",
           "+19/04/2024, 06:27:44 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=2": [
+          "-19/04/2024, 06:33:19 pm",
+          "+19/04/2024, 06:33:01 pm",
           "-19/04/2024, 06:32:58 pm",
           "+19/04/2024, 06:31:38 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": [
+          "-19/04/2024, 06:44:34 pm",
+          "+19/04/2024, 06:43:58 pm",
+          "-19/04/2024, 06:43:58 pm",
+          "+19/04/2024, 06:43:16 pm"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=4": [
+          "+19/04/2024, 06:44:34 pm"
         ]
       },
       "clicks": {
@@ -94,10 +110,14 @@
             "19/04/2024, 06:29:41 pm"
           ],
           "solutionButton": [
+            "19/04/2024, 06:32:59 pm",
             "19/04/2024, 06:30:56 pm"
           ],
           "menuButton": [
             "19/04/2024, 06:31:21 pm"
+          ],
+          "forwardButton": [
+            "19/04/2024, 06:33:01 pm"
           ]
         },
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=2": {
@@ -106,6 +126,24 @@
           ],
           "backwardButton": [
             "19/04/2024, 06:32:58 pm"
+          ],
+          "tipButton": [
+            "19/04/2024, 06:33:09 pm"
+          ],
+          "menuButton": [
+            "19/04/2024, 06:33:19 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": {
+          "tipButton": [
+            "19/04/2024, 06:43:59 pm",
+            "19/04/2024, 06:43:19 pm"
+          ],
+          "solutionButton": [
+            "19/04/2024, 06:44:19 pm"
+          ],
+          "forwardButton": [
+            "19/04/2024, 06:44:34 pm"
           ]
         }
       }

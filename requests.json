@@ -7,11 +7,46 @@
       "comments": [],
       "views": {
         "https://leanderziehm.github.io/": [
+          "-19/04/2024, 06:34:41 pm",
+          "+19/04/2024, 06:34:24 pm",
+          "-19/04/2024, 06:34:16 pm",
           "+19/04/2024, 06:34:01 pm",
           "15/04/2024, 11:59:07 pm"
+        ],
+        "https://leanderziehm.github.io/Projects.html": [
+          "-19/04/2024, 06:34:40 pm",
+          "+19/04/2024, 06:34:26 pm",
+          "-19/04/2024, 06:34:24 pm",
+          "+19/04/2024, 06:34:03 pm"
+        ],
+        "https://leanderziehm.github.io/ExerciseSelection.html": [
+          "-19/04/2024, 06:34:50 pm",
+          "+19/04/2024, 06:34:49 pm",
+          "-19/04/2024, 06:34:38 pm",
+          "-19/04/2024, 06:34:37 pm",
+          "+19/04/2024, 06:34:27 pm",
+          "+19/04/2024, 06:34:05 pm"
+        ],
+        "https://leanderziehm.github.io/Exercise.html?exercise=3": [
+          "+19/04/2024, 06:38:56 pm",
+          "-19/04/2024, 06:38:45 pm",
+          "+19/04/2024, 06:34:51 pm"
         ]
       },
-      "clicks": {}
+      "clicks": {
+        "https://leanderziehm.github.io/": {
+          "My Projects": [
+            "19/04/2024, 06:34:26 pm",
+            "19/04/2024, 06:34:03 pm"
+          ]
+        },
+        "https://leanderziehm.github.io/Projects.html": {
+          "buttonLink": [
+            "19/04/2024, 06:34:27 pm",
+            "19/04/2024, 06:34:04 pm"
+          ]
+        }
+      }
     },
     {
       "userID": 4,

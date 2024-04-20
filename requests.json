@@ -85,6 +85,9 @@
           "+19/04/2024, 06:25:19 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=7": [
+          "+20/04/2024, 08:23:04 am",
+          "-20/04/2024, 08:23:04 am",
+          "+20/04/2024, 08:14:33 am",
           "-19/04/2024, 06:27:43 pm",
           "+19/04/2024, 06:25:25 pm"
         ],
@@ -95,12 +98,16 @@
           "+19/04/2024, 06:27:44 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=2": [
+          "-20/04/2024, 08:14:24 am",
+          "+20/04/2024, 08:14:22 am",
           "-19/04/2024, 06:33:19 pm",
           "+19/04/2024, 06:33:01 pm",
           "-19/04/2024, 06:32:58 pm",
           "+19/04/2024, 06:31:38 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": [
+          "-20/04/2024, 08:14:25 am",
+          "+20/04/2024, 08:14:24 am",
           "-19/04/2024, 07:08:25 pm",
           "+19/04/2024, 07:08:18 pm",
           "-19/04/2024, 07:05:52 pm",
@@ -113,6 +120,8 @@
           "+19/04/2024, 06:43:16 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=4": [
+          "-20/04/2024, 08:14:26 am",
+          "+20/04/2024, 08:14:25 am",
           "-19/04/2024, 07:20:16 pm",
           "+19/04/2024, 07:20:15 pm",
           "-19/04/2024, 07:19:30 pm",
@@ -149,6 +158,8 @@
           "+19/04/2024, 06:44:34 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=5": [
+          "-20/04/2024, 08:14:27 am",
+          "+20/04/2024, 08:14:26 am",
           "-19/04/2024, 08:38:42 pm",
           "-19/04/2024, 08:16:18 pm",
           "+19/04/2024, 08:15:52 pm",
@@ -169,7 +180,12 @@
           "+19/04/2024, 08:15:10 pm"
         ],
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html": [
+          "-20/04/2024, 08:14:22 am",
           "+20/04/2024, 08:14:17 am"
+        ],
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=6": [
+          "-20/04/2024, 08:14:33 am",
+          "+20/04/2024, 08:14:27 am"
         ]
       },
       "clicks": {
@@ -205,6 +221,9 @@
           ],
           "menuButton": [
             "19/04/2024, 06:33:19 pm"
+          ],
+          "forwardButton": [
+            "20/04/2024, 08:14:24 am"
           ]
         },
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=3": {
@@ -218,6 +237,7 @@
             "19/04/2024, 06:44:19 pm"
           ],
           "forwardButton": [
+            "20/04/2024, 08:14:25 am",
             "19/04/2024, 07:08:25 pm",
             "19/04/2024, 07:05:52 pm",
             "19/04/2024, 06:44:34 pm"
@@ -255,6 +275,7 @@
             "19/04/2024, 07:04:31 pm"
           ],
           "forwardButton": [
+            "20/04/2024, 08:14:26 am",
             "19/04/2024, 07:20:16 pm",
             "19/04/2024, 07:19:30 pm"
           ]
@@ -275,6 +296,9 @@
           ],
           "menuButton": [
             "19/04/2024, 08:16:18 pm"
+          ],
+          "forwardButton": [
+            "20/04/2024, 08:14:27 am"
           ]
         },
         "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Comments.html": {
@@ -283,6 +307,16 @@
           ],
           "menuButton": [
             "19/04/2024, 08:15:50 pm"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html": {
+          "forwardButton": [
+            "20/04/2024, 08:14:22 am"
+          ]
+        },
+        "file:///C:/Users/krott/Documents/[Github]/LeanderZiehm.github.io/Exercise.html?exercise=6": {
+          "forwardButton": [
+            "20/04/2024, 08:14:33 am"
           ]
         }
       }
